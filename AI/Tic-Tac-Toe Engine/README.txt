@@ -1,10 +1,7 @@
 README
 
-set assign6-framework-java as your current working directory
+This is an AI that will play tic tac toe against you
 
-To launch the program run the following commands:
-	javac Main.java
-	java Main
+To play set tictactoeassign-framework-java as the current working directory
 
-Follow the instructions displayed to play Tic-Tac-Toe
-
+then launc the program run the commancds javac Main.java and java Main
